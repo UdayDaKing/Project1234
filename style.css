@@ -1,0 +1,39 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: aliceblue;
+}
+ 
+.header_div{
+    font-family: 'Roboto Condensed', sans-serif;
+    background:aquamarine;
+    color:darkblue;
+}
+ 
+.header_div p{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:deepskyblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 200;
+}
+ 
+.main_div button{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+ 
+.Copy_Right_Folder{
+    position: fixed;
+    color:indigo;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: lavender;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-family: 'Roboto Condensed', sans-serif;
+}
